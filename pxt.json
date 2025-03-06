@@ -22,5 +22,4 @@
     ],
     "public": false,
     "license": "MIT",
-    "disablesVariants": ["mbcodal"]
 }
