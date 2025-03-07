@@ -20,6 +20,9 @@
     "testFiles": [
         "test.ts"
     ],
-    "public": false,
+    "disableVarients": [
+	    "mbdal"
+    ]
+    "public": true,
     "license": "MIT",
 }
